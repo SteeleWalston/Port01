@@ -1,16 +1,14 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/about/">About</Link>
-    <br/>
-    <Link to="/projects/">Projects</Link>
+    <section class="landing-section">
+      <h1>SteeleWalston</h1>
+      <h3>Dev</h3>
+      <h3>Art</h3>
+    </section>
   </Layout>
 )
 

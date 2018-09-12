@@ -28,7 +28,7 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
-        <Header siteTitle="SteeleWalston"/>
+        <Header/>
         <div
           style={{
             margin: '0 auto',
