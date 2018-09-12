@@ -20,10 +20,10 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Helmet
-          siteTitle="SteeleWalston"
+          title="SteeleWalston"
           meta={[
-            { name: 'description', content: 'Sample' },
-            { name: 'keywords', content: 'sample, something' },
+            { name: 'description', content: 'Steele Walston Portfolio site' },
+            { name: 'keywords', content: 'Steele Walston, code, developer, Gatsby, React, Portfolio ' },
           ]}
         >
           <html lang="en" />
