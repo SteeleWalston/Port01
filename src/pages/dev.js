@@ -1,6 +1,6 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import Arrow from '../../assets/arrow-down-black.png'
+// import { Link } from 'gatsby'
+// import Arrow from '../../assets/arrow-down-black.png'
 
 import Layout from '../components/layout'
 
